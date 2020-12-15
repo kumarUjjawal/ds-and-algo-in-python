@@ -4,13 +4,22 @@ Implementing popular data structure and algorithms using Python programming lang
 
 ### Contents
 
+<b> Sorting </b>
 1. Heap Sort
 2. Merge Sort
-3. Insertion Sort 
-4. Breadth First Search
-5. Depth First Search
-6. Binary Search
-7. Hash Tables
-8. Linked List
-9. Reversed Linked List
+3. Insertion Sort
+4. Bubble Sort
+5. Quick Sort
+
+<b> Searching </b>
+
+1. Breadth First Search
+2. Depth First Search
+3. Binary Search
+4. Linear Search
+
+<b> Data Structure </b>
+1. Hash Tables
+2. Linked List
+3. Reversed Linked List
 
